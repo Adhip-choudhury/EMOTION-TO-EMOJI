@@ -1,0 +1,44 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+  background-color: white;
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji,.emoji2
+{
+  font-size:48px;
+}
+
+.heading{
+  background-color: chocolate;
+  font-size: 20px;
+  border-radius: 20px;
+  letter-spacing: 10px;
+  text-align: center;
+}
+
+label{
+  font-size: 15px;
+  color: greenyellow;
+  background-color: white;
+  padding: 6px;
+  border-radius: 12px;
+}
